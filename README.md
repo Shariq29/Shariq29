@@ -3,16 +3,18 @@
 [![Profile views](https://komarev.com/ghpvc/?username=Shariq29&color=blue)](https://github.com/Shariq29)
 
 ## About Me
-I’m Shariq — [short role/title e.g. "Machine Learning Engineer" or "Data Scientist" — replace with your current title]. I build ML-backed applications and data products, and I enjoy turning data into useful web apps and end-user insights.
 
-- 🔭 Currently: [Your current project / job / focus]
-- 🌱 Learning: [What you're learning now]
-- 👯 Open to: collaborating on ML, data apps, productionising models
-- 💬 Ask me about: data science, machine learning, Streamlit, deployment
-- 📫 Email: [shariqsayeed33@gmail.com](mailto:shariqsayeed33@gmail.com)
-- 🔗 LinkedIn: [shariq-ahmad](https://www.linkedin.com/in/shariq-ahmad-a04147234/)
-- 🔗 Portfolio: https://shariq-portfolio-eight.vercel.app/
-- 🔗 GitHub: https://github.com/Shariq29
+I’m **Shariq Ahmad Kachoo**, an entry-level **Data Scientist / Machine Learning Engineer** with hands-on experience in building end-to-end machine learning projects and data-driven web applications.  
+I enjoy working at the intersection of **data, ML, and deployment**, turning raw datasets into practical, production-ready solutions.
+
+- 🔭 Currently: Data Engineer Intern at Educasheer  
+- 🌱 Learning: Advanced ML, model deployment, and data engineering best practices  
+- 👯 Open to: collaborating on ML, data science, and analytics projects  
+- 💬 Ask me about: Data Science, Machine Learning, Python, SQL, Streamlit, Flask  
+- 📫 Email: [shariqsayeed33@gmail.com](mailto:shariqsayeed33@gmail.com)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/shariq-ahmad-a04147234/  
+- 🔗 Portfolio: https://shariq-portfolio-eight.vercel.app/  
+- 🔗 GitHub: https://github.com/Shariq29  
 
 ---
 
@@ -26,65 +28,75 @@ I’m Shariq — [short role/title e.g. "Machine Learning Engineer" or "Data Sci
 
 ## Featured Projects
 
-- Birth Weight Predictor — Live: https://birth-weight-predictor-z6o2.onrender.com/ • Repo: https://github.com/Shariq29/Birth-Weight-Predictor.git  
-  Short: A web app that predicts birth weight from maternal and clinical features. (Tech: Python, Streamlit/Flask, scikit-learn — edit as needed)
+### 🔹 Birth Weight Predictor  
+**Live:** https://birth-weight-predictor-z6o2.onrender.com/  
+**Repo:** https://github.com/Shariq29/Birth-Weight-Predictor.git  
 
-- Bangalore House Price Predictor — Live: https://bangalore-house-price-predictor-tskt.onrender.com/ • Repo: https://github.com/Shariq29/bangalore-house-price-predictor.git  
-  Short: House price prediction for Bangalore real-estate datasets with a user-facing demo.
+- Built regression models to predict newborn birth weight using maternal and clinical features  
+- Improved MAE by **12%** through feature engineering and hyperparameter tuning  
+- Deployed a Flask-based web app for real-time predictions  
 
-- Customer Churn Prediction — Live: https://customer-churn-predictiongit.streamlit.app/ • Repo: https://github.com/Shariq29/Customer-Churn-Prediction.git  
-  Short: Churn prediction model with dashboard to explore features and model outputs.
-
-(If you want different featured repos or slightly different descriptions, paste the exact 1–2 line descriptions below and I’ll update.)
-
----
-
-## Skills & Tools (please confirm / edit)
-- Languages: Python (inferred), SQL, [add others: JavaScript / TypeScript / R / ...]
-- ML & Data: scikit-learn, pandas, numpy, matplotlib, seaborn
-- Apps & Deployment: Streamlit, Flask, Docker, (Heroku/Render/Vercel)
-- Dev & Infra: Git, GitHub Actions (CI), basic Docker
-> These were inferred from your projects — please confirm or replace with your exact stack.
+**Tech:** Python, Pandas, Scikit-learn, Flask  
 
 ---
 
-## Experience (add company names, titles & bullets)
-- [Company / Role] — [Start - End]
-  - Achievement or responsibility 1
-  - Achievement or responsibility 2
+### 🔹 Bangalore House Price Predictor  
+**Live:** https://bangalore-house-price-predictor-tskt.onrender.com/  
+**Repo:** https://github.com/Shariq29/bangalore-house-price-predictor.git  
 
-(Please paste 2–3 lines per role from your resume and I will format them for the profile README.)
+- Processed **13K+ real-estate records** and achieved **85% prediction accuracy**  
+- Designed REST APIs using Flask and deployed on Render with Nginx & Gunicorn  
+- Implemented modular preprocessing and inference pipelines  
+
+**Tech:** Python, Scikit-learn, Flask, HTML, CSS  
+
+---
+
+### 🔹 Customer Churn Prediction  
+**Live:** https://customer-churn-predictiongit.streamlit.app/  
+**Repo:** https://github.com/Shariq29/Customer-Churn-Prediction.git  
+
+- Modeled telecom customer churn using **7,043 samples and 19 features**  
+- Applied SMOTE for class imbalance and evaluated Random Forest & XGBoost models  
+- Built an interactive Streamlit dashboard for churn probability insights  
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Streamlit  
+
+---
+
+## Skills & Tools
+
+- **Languages:** Python, SQL, C/C++  
+- **ML & Data:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, EDA, Feature Engineering  
+- **Visualization & BI:** Matplotlib, Seaborn, Power BI, Tableau  
+- **Apps & Deployment:** Flask, FastAPI, Streamlit  
+- **Data Engineering:** ETL, Data Cleaning, Data Validation, Data Pipelines  
+- **Dev Tools:** Git, GitHub  
+
+---
+
+## Experience
+
+### Data Engineer Intern — Educasheer (Jammu & Kashmir)  
+*Dec 2025 – Present*  
+- Designed and maintained ETL pipelines for analytics and reporting  
+- Cleaned, validated, and transformed structured datasets using Python and SQL  
+- Assisted in building analytical data models and documenting workflows  
+
+### Machine Learning Intern — Corizo Edutech (Delhi)  
+*Jan 2023 – May 2023*  
+- Developed supervised ML models using Scikit-learn, TensorFlow, and PyTorch  
+- Performed EDA, feature engineering, and model validation  
+- Deployed ML models using Flask, FastAPI, and Streamlit  
 
 ---
 
 ## Education
-- [Degree], [Major] — [School], [Year]
-(Confirm or paste your education lines to add them here.)
+
+**Bachelor of Technology (B.Tech)** — Computer Science  
+Amritsar Group of Colleges, Punjab (2019 – 2023)
 
 ---
 
-## Resume
-I can add your resume PDF to the repo and link it here once you want me to push files:
-- Download/Link: README will show a "Download Resume" link once the PDF is in the repo (filename: Shariq Resume.pdf)
-
----
-
-Thanks for reading — if you want I can:
-- Put this README.md into a new repo named github.com/Shariq29/Shariq29 (I’ll need confirmation and repo access).
-- Update the placeholder sections with exact lines pulled from your resume — paste the Experience/Title/Education text you want shown and I’ll format it.
-- Add the resume PDF to the repo and include a link in the README.
-
-<!--
-**Shariq29/Shariq29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by!  
+If you’d like to collaborate or discuss opportunities in **Data Science, Analytics, or Machine Learning**, feel free to connect 🚀
