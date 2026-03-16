@@ -1,102 +1,180 @@
-# Hi, I'm Shariq 👋
+# Hi 👋 I'm Shariq Ahmad
 
-[![Profile views](https://komarev.com/ghpvc/?username=Shariq29&color=blue)](https://github.com/Shariq29)
+💻 **Data Scientist | Machine Learning Engineer | Python Developer**
 
-## About Me
-
-I’m **Shariq Ahmad Kachoo**, an entry-level **Data Scientist / Machine Learning Engineer** with hands-on experience in building end-to-end machine learning projects and data-driven web applications.  
-I enjoy working at the intersection of **data, ML, and deployment**, turning raw datasets into practical, production-ready solutions.
-
-- 🔭 Currently: Data Engineer Intern at Educasheer  
-- 🌱 Learning: Advanced ML, model deployment, and data engineering best practices  
-- 👯 Open to: collaborating on ML, data science, and analytics projects  
-- 💬 Ask me about: Data Science, Machine Learning, Python, SQL, Streamlit, Flask  
-- 📫 Email: [shariqsayeed33@gmail.com](mailto:shariqsayeed33@gmail.com)  
-- 🔗 LinkedIn: https://www.linkedin.com/in/shariq-ahmad-a04147234/  
-- 🔗 Portfolio: https://shariq-portfolio-eight.vercel.app/  
-- 🔗 GitHub: https://github.com/Shariq29  
+I enjoy building **machine learning systems, data pipelines, and AI-driven applications** that transform raw datasets into practical solutions. My interests lie at the intersection of **Data Science, Machine Learning, and Data Engineering**.
 
 ---
 
-## GitHub Stats
+# 🚀 About Me
+
+🔭 Currently working as **AI Content & Data Associate at EduCasheer (EdTech Startup)**  
+🧠 Building **AI-powered learning systems and automation pipelines**  
+🌱 Currently learning **advanced machine learning and data engineering workflows**  
+🤝 Open to collaborating on **machine learning, data science, and analytics projects**  
+💬 Ask me about **Python, ML, Data Analysis, SQL, and model deployment**
+
+---
+
+# 🛠 Tech Stack
+
+### Programming
+Python | SQL | C/C++
+
+### Data Science & Machine Learning
+Pandas | NumPy | Scikit-learn | PyTorch | Deep Learning | Feature Engineering | EDA
+
+### Data Analysis
+Data Cleaning | Data Preprocessing | Hypothesis Testing | A/B Testing
+
+### Visualization & BI
+Matplotlib | Seaborn | Power BI | Tableau
+
+### Tools & Deployment
+Jupyter Notebook | Git | GitHub | Streamlit | Flask | FastAPI
+
+---
+
+# 📊 GitHub Stats
 
 ![Shariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shariq29&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shariq29&layout=compact&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shariq29&layout=compact&theme=tokyonight)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shariq29&theme=tokyonight)
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 Birth Weight Predictor  
-**Live:** https://birth-weight-predictor-z6o2.onrender.com/  
-**Repo:** https://github.com/Shariq29/Birth-Weight-Predictor.git  
+## 🧠 Mini PyTorch – Autograd Engine from Scratch
+Built a lightweight PyTorch-like **automatic differentiation engine** implementing computational graphs and backpropagation.
 
-- Built regression models to predict newborn birth weight using maternal and clinical features  
-- Improved MAE by **12%** through feature engineering and hyperparameter tuning  
-- Deployed a Flask-based web app for real-time predictions  
+**Key Highlights**
 
-**Tech:** Python, Pandas, Scikit-learn, Flask  
+- Implemented forward and backward propagation using computational graphs
+- Built custom parameter classes and gradient tracking
+- Implemented gradient descent optimization
+- Demonstrated deep learning fundamentals without external frameworks
 
----
-
-### 🔹 Bangalore House Price Predictor  
-**Live:** https://bangalore-house-price-predictor-tskt.onrender.com/  
-**Repo:** https://github.com/Shariq29/bangalore-house-price-predictor.git  
-
-- Processed **13K+ real-estate records** and achieved **85% prediction accuracy**  
-- Designed REST APIs using Flask and deployed on Render with Nginx & Gunicorn  
-- Implemented modular preprocessing and inference pipelines  
-
-**Tech:** Python, Scikit-learn, Flask, HTML, CSS  
+**Tech:** Python, Deep Learning
 
 ---
 
-### 🔹 Customer Churn Prediction  
-**Live:** https://customer-churn-predictiongit.streamlit.app/  
-**Repo:** https://github.com/Shariq29/Customer-Churn-Prediction.git  
+## 🤖 AI-Powered Educational Content Generation System
+Developed an **AI-driven system to automate study material and educational video generation** for an EdTech platform.
 
-- Modeled telecom customer churn using **7,043 samples and 19 features**  
-- Applied SMOTE for class imbalance and evaluated Random Forest & XGBoost models  
-- Built an interactive Streamlit dashboard for churn probability insights  
+**Key Highlights**
 
-**Tech:** Python, Pandas, NumPy, Scikit-learn, Streamlit  
+- Built AI-agent pipelines to generate structured study materials
+- Automated educational video generation workflows
+- Processed and structured learning datasets
+- Reduced manual content creation through automation
 
----
-
-## Skills & Tools
-
-- **Languages:** Python, SQL, C/C++  
-- **ML & Data:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, EDA, Feature Engineering  
-- **Visualization & BI:** Matplotlib, Seaborn, Power BI, Tableau  
-- **Apps & Deployment:** Flask, FastAPI, Streamlit  
-- **Data Engineering:** ETL, Data Cleaning, Data Validation, Data Pipelines  
-- **Dev Tools:** Git, GitHub  
+**Tech:** Python, AI Agents, Automation
 
 ---
 
-## Experience
+## 🔹 Birth Weight Predictor
 
-### Data Engineer Intern — Educasheer (Jammu & Kashmir)  
-*Dec 2025 – Present*  
-- Designed and maintained ETL pipelines for analytics and reporting  
-- Cleaned, validated, and transformed structured datasets using Python and SQL  
-- Assisted in building analytical data models and documenting workflows  
+**Live:**  
+https://birth-weight-predictor-z6o2.onrender.com/
 
-### Machine Learning Intern — Corizo Edutech (Delhi)  
-*Jan 2023 – May 2023*  
-- Developed supervised ML models using Scikit-learn, TensorFlow, and PyTorch  
-- Performed EDA, feature engineering, and model validation  
-- Deployed ML models using Flask, FastAPI, and Streamlit  
+**Repository:**  
+https://github.com/Shariq29/Birth-Weight-Predictor
 
----
+**Highlights**
 
-## Education
+- Built regression models to predict newborn birth weight
+- Improved model performance through feature engineering
+- Deployed a Flask web application for real-time predictions
 
-**Bachelor of Technology (B.Tech)** — Computer Science  
-Amritsar Group of Colleges, Punjab (2019 – 2023)
+**Tech:** Python, Pandas, Scikit-learn, Flask
 
 ---
 
-Thanks for stopping by!  
-If you’d like to collaborate or discuss opportunities in **Data Science, Analytics, or Machine Learning**, feel free to connect 🚀
+## 🔹 Bangalore House Price Predictor
+
+**Live:**  
+https://bangalore-house-price-predictor-tskt.onrender.com/
+
+**Repository:**  
+https://github.com/Shariq29/bangalore-house-price-predictor
+
+**Highlights**
+
+- Processed **13K+ real estate records**
+- Achieved **85% prediction accuracy**
+- Built REST APIs and deployed using Flask, Nginx, and Gunicorn
+
+**Tech:** Python, Scikit-learn, Flask
+
+---
+
+## 🔹 Customer Churn Prediction
+
+**Live:**  
+https://customer-churn-predictiongit.streamlit.app/
+
+**Repository:**  
+https://github.com/Shariq29/Customer-Churn-Prediction
+
+**Highlights**
+
+- Modeled telecom customer churn using **7K+ samples**
+- Handled class imbalance using **SMOTE**
+- Built an interactive Streamlit dashboard for churn prediction
+
+**Tech:** Python, Pandas, Scikit-learn, Streamlit
+
+---
+
+# 💼 Experience
+
+## AI Content & Data Associate  
+**EduCasheer – EdTech Startup**  
+Dec 2025 – Present
+
+- Built AI-driven systems for automated study material generation
+- Developed pipelines for educational data processing and automation
+- Created AI-powered educational videos using automation tools
+- Designed and structured online test series datasets
+
+---
+
+## Machine Learning Intern  
+**Corizo Edutech**  
+Jan 2023 – May 2023
+
+- Built supervised ML models using Scikit-learn and PyTorch
+- Performed EDA, feature engineering, and model validation
+- Deployed ML models using Flask, FastAPI, and Streamlit
+
+---
+
+# 🎓 Education
+
+**Bachelor of Technology (B.Tech) – Computer Science**
+
+Amritsar Group of Colleges, Punjab  
+2019 – 2023
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email  
+shariqsayeed33@gmail.com
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/shariq-ahmad-a04147234/
+
+🌍 Portfolio  
+https://shariq-portfolio-eight.vercel.app/
+
+💻 GitHub  
+https://github.com/Shariq29
+
+---
+
+⭐ If you find my projects interesting, feel free to connect or collaborate on **data science and machine learning projects.**
