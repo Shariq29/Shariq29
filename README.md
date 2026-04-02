@@ -1,6 +1,6 @@
 # Hi 👋 I'm Shariq Ahmad
 
-💻 **Data Scientist | Machine Learning Engineer | Python Developer**
+💻 **Data Scientist | Machine Learning Engineer | Data Analyst**
 
 I enjoy building **machine learning systems, data pipelines, and AI-driven applications** that transform raw datasets into practical solutions. My interests lie at the intersection of **Data Science, Machine Learning, and Data Engineering**.
 
@@ -32,16 +32,6 @@ Matplotlib | Seaborn | Power BI | Tableau
 
 ### Tools & Deployment
 Jupyter Notebook | Git | GitHub | Streamlit | Flask | FastAPI
-
----
-
-# 📊 GitHub Stats
-
-![Shariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shariq29&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shariq29&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shariq29&theme=tokyonight)
 
 ---
 
